@@ -17,7 +17,7 @@ A simple standalone application to move robots within the arena without overlapp
 3. Navigate to target folder inside RobotWar directory
 4. Run the below command in the cmd/terminal to run the jar
 ```bash
-     java -jar RobotWars-1.0-SNAPSHOT-jar-with-dependencies.jar
+     java -jar RobotWar-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ## Asumptions
